@@ -6,6 +6,7 @@
 
 - HTML
 - CSS
+- Bootstrap
 - JavaSCript (jQuery)
 - Google Fonts 
 - FontAwesome Icons
