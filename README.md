@@ -12,7 +12,4 @@
 - Responsive Design
 
 ![](https://user-images.githubusercontent.com/55697884/154237644-2c8be331-6abb-446b-8bb0-1de17e12ee77.jpg)
-The link is [here](https://github.com/Buzurgmehr)
-
-
-
+Demo website is [here](https://github.com/Buzurgmehr)
