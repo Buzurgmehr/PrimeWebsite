@@ -14,5 +14,4 @@
 
 Demo website is [here](https://github.com/Buzurgmehr)
 
-
-![Untitled](https://user-images.githubusercontent.com/55697884/154243191-52efae63-4d73-405e-9ccb-e0e052f20f44.gif)
+![EJG29xo70j](https://user-images.githubusercontent.com/55697884/154243322-644e12f5-ae3a-48e5-8dcb-53f20c2deb95.jpg)
