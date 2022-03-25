@@ -12,6 +12,6 @@
 - FontAwesome Icons
 - Responsive Design
 
-Demo website is [here](https://github.com/Buzurgmehr)
+Demo website is [here](https://buzurgmehr.github.io/PrimeWebsite/)
 
 ![EJG29xo70j](https://user-images.githubusercontent.com/55697884/154243322-644e12f5-ae3a-48e5-8dcb-53f20c2deb95.jpg)
